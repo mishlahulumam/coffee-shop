@@ -1,0 +1,21 @@
+.featured-products {
+    padding: 2rem;
+  }
+  
+  .product-list {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .product-card {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .product-card img {
+    width: 300px;
+    height: 435px;
+    object-fit: cover; /* Ensures the image is cropped to fit without distorting */
+  }
+  

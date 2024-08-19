@@ -1,0 +1,26 @@
+.menu-page {
+    padding: 2rem;
+  }
+  
+  .menu-page ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .menu-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  
+  .menu-item-image {
+    width: 100px;  /* Adjust the width as needed */
+    height: 100px; /* Adjust the height as needed */
+    object-fit: cover;
+    margin-right: 1rem;
+  }
+  
+  .menu-item-details {
+    font-size: 1.2rem;
+  }
+  

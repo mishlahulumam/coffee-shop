@@ -1,0 +1,16 @@
+/* index.css can include global resets or additional styles */
+html, body, #root {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  ul {
+    padding: 0;
+    list-style-type: none;
+  }
+  
